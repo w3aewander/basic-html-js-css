@@ -1,0 +1,29 @@
+
+.button{
+  width: 90px;
+  height: 90px;		  
+  border: 2px outset;
+  
+  border-radius: 50%;
+}
+
+.button:hover {
+  background-color: #85BB65;
+  border: 2px solid dark;
+  cursor: pointer;
+}
+
+.button:active{
+  border: 2px inset;
+  background-color: #B2C248;
+}
+
+.button-green{
+  background-color: green;
+  color: white;
+}	   
+
+.border{
+   border: 2px solid gray;
+}
+	   
